@@ -1,6 +1,6 @@
 # SPX Market Analysis Framework 🚀
 
-A sophisticated Python-based tool for analyzing S&P 500 (SPX) Index data using various technical indicators and backtesting trading strategies. This project implements multiple analysis approaches including EMA (Exponential Moving Average), RSI (Relative Strength Index), and MACD (Moving Average Convergence Divergence) to identify market trends and optimize trading decisions.
+A  Python-based tool for analyzing S&P 500 (SPX) Index data using various technical indicators and backtesting trading strategies. This project implements multiple analysis approaches including EMA (Exponential Moving Average), RSI (Relative Strength Index), and MACD (Moving Average Convergence Divergence) to identify market trends and optimize trading decisions.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
